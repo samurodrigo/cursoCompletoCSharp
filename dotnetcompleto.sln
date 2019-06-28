@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculosRetangulo", "Retang
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AumentoImposto", "AumentoImposto\AumentoImposto.csproj", "{15CC5D1D-3C9A-4BA9-8AC0-D0E517CC2AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisadorNotas", "AnalisadorNotas\AnalisadorNotas.csproj", "{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnalisadorNotas", "AnalisadorNotas\AnalisadorNotas.csproj", "{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorMoeda", "ConversonMoeda\ConversorMoeda.csproj", "{E884C8F3-35E6-421C-91DF-1EB8EB65C825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -199,6 +201,18 @@ Global
 		{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D}.Release|x64.Build.0 = Release|Any CPU
 		{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D}.Release|x86.ActiveCfg = Release|Any CPU
 		{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D}.Release|x86.Build.0 = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|x64.Build.0 = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Debug|x86.Build.0 = Debug|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|x64.ActiveCfg = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|x64.Build.0 = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|x86.ActiveCfg = Release|Any CPU
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,6 +231,7 @@ Global
 		{99842D80-3BE0-42C1-9FE4-3D8118BC293A} = {14964C29-3227-4275-9D45-E2A91839FDF1}
 		{15CC5D1D-3C9A-4BA9-8AC0-D0E517CC2AEC} = {14964C29-3227-4275-9D45-E2A91839FDF1}
 		{AB3BAAA0-EEA4-4FB8-8886-CA0CAA41373D} = {14964C29-3227-4275-9D45-E2A91839FDF1}
+		{E884C8F3-35E6-421C-91DF-1EB8EB65C825} = {14964C29-3227-4275-9D45-E2A91839FDF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C2C1CBF-B7CA-4607-BD6B-1592F218277E}
